@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution in Frontend Mentor page](https://your-solution-url.com)
+- Solution URL: [Solution in Frontend Mentor page]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-results-summary-component-using-react-and-styled-components-lM_aKDRthZ))
 - Live Site URL: [Results Summary Component](https://frontend-mentor-summary.vercel.app/)
 
 ### Built with
@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tomascarrizodev)
+- Frontend Mentor - [@tomascarrizodev](https://www.frontendmentor.io/profile/tomascarrizodev)
 - LinkedIn - [Tomas Carrizo](https://www.linkedin.com/in/tomascarrizodev/)
