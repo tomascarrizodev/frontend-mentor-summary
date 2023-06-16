@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop.png)
 ![](./phone.png)
+![](./desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution in Frontend Mentor page](https://your-solution-url.com)
 - Live Site URL: [Results Summary Component](https://frontend-mentor-summary.vercel.app/)
 
 ### Built with
@@ -45,6 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tomascarrizodev)
+- LinkedIn - [Tomas Carrizo](https://www.linkedin.com/in/tomascarrizodev/)
